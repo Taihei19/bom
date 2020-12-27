@@ -1,6 +1,9 @@
 # bom
 Create a BOM table using recursive SQL.
 
+Environment
+PostgreSQL 12
+
 Description
 
 1.create table composition.sql
