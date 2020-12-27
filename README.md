@@ -53,3 +53,4 @@ The used quantity of child component numbers used to create the final product.
 
   
   
+https://boxcode.jp/tableau%e3%81%a7bom%e8%a1%a8%e3%82%92%e4%bd%9c%e6%88%90%ef%bc%88sql%e5%bf%9c%e7%94%a8%e7%b7%a8%ef%bc%89
